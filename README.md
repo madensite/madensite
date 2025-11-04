@@ -33,7 +33,7 @@
   2. AR 기능을 통해 방 크기 및 스피커 좌표 추정  
   3. Sweep Tone을 녹음하고 분석하여 **청취 환경을 개선**하는 보조 앱 제작 중  
 - 배경: React Native로 시작했으나 ARCore 라이브러리 한계로 Kotlin 기반으로 전환
-- [🔗 리포지토리 바로가기](https://github.com/madensite/roomacoustic)
+- [🔗 리포지토리 바로가기](https://github.com/madensite/Room_Acoustic)
 ---
 
 ## 🧠 기술 스택
